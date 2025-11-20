@@ -1,0 +1,4 @@
+n_users: 162541
+n_movies: 59047
+n_interactions_train: 20000076
+n_interactions_test: 610664
