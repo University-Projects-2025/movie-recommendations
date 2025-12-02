@@ -18,6 +18,10 @@
 
 ```
 movie-recommendations/
+├── models/
+│   ├── best_ngcf_e4.pth         # NGCF trained models
+│   └── best_ngcf_e5.pth
+├── ngcf.ipynb                   # Code with training nad testing the NGCF model
 ├── data-preprocessing.ipynb     # Main preprocessing pipeline
 ├── eda.ipynb                    # Exploratory data analysis
 ├── preprocessed_data/           # Generated processed data
