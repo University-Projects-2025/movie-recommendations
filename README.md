@@ -18,7 +18,7 @@ This project explores the use of Graph Machine Learning to improve movie recomme
 | Average Rating | 3.53 |
 | Data Period | 1995-01-09 to 2019-11-21 |
 
-## Structure of `data-process` branch
+## Structure of `main` branch
 
 ```
 movie-recommendations/
