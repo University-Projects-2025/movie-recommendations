@@ -24,8 +24,10 @@ This project explores the use of Graph Machine Learning to improve movie recomme
 movie-recommendations/
 ├── models/
 │   ├── best_ngcf_e4.pth         # NGCF trained models
+│   ├── best_LightGCN.pth        # LightGCN trained models
 │   └── best_ngcf_e5.pth
 ├── ngcf.ipynb                   # Code with training and testing the NGCF model
+├── LightGCN.ipynb               # Code with training and testing the LightGCN model
 ├── data-preprocessing.ipynb     # Main preprocessing pipeline
 ├── eda.ipynb                    # Exploratory data analysis
 ├── preprocessed_data/           # Generated processed data
